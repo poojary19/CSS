@@ -1,0 +1,10 @@
+DOCTYPE html>
+<head>
+<title>sample program</title>
+<link rel="style sheet"href="beautycss.css">
+</head>
+<body>
+<h1>my first lab prg</h1>
+<p>hello how are you</p>
+</body>
+</html>
